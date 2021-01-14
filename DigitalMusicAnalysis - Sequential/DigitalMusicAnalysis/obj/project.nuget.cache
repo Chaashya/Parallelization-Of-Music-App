@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1sFTeXh72PFwTYQMy1xDsky7oLCu687EGR8jyDEI6DpUphqrAPOdKT6GDkz/2aGaKlJJ5RJlHuyqN7mWlTjrOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chaas\\Desktop\\CAB401\\DigitalMusicAnalysis - Sequential\\DigitalMusicAnalysis\\DigitalMusicAnalysis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chaas\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\chaas\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\chaas\\.nuget\\packages\\naudio\\1.10.0\\naudio.1.10.0.nupkg.sha512",
+    "C:\\Users\\chaas\\.nuget\\packages\\system.resources.extensions\\4.7.0\\system.resources.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\chaas\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\chaas\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

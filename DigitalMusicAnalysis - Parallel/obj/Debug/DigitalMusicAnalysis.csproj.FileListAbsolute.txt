@@ -1,0 +1,66 @@
+H:\CAB401\CAB401-DigitizedMusic\DigitalMusicSequential\bin\Debug\DigitalMusicAnalysis.exe.config
+H:\CAB401\CAB401-DigitizedMusic\DigitalMusicSequential\bin\Debug\DigitalMusicAnalysis.exe
+H:\CAB401\CAB401-DigitizedMusic\DigitalMusicSequential\bin\Debug\DigitalMusicAnalysis.pdb
+H:\CAB401\CAB401-DigitizedMusic\DigitalMusicSequential\bin\Debug\NAudio.dll
+H:\CAB401\CAB401-DigitizedMusic\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis.csprojAssemblyReference.cache
+H:\CAB401\CAB401-DigitizedMusic\DigitalMusicSequential\obj\Debug\MainWindow.g.cs
+H:\CAB401\CAB401-DigitizedMusic\DigitalMusicSequential\obj\Debug\App.g.cs
+H:\CAB401\CAB401-DigitizedMusic\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis_MarkupCompile.cache
+H:\CAB401\CAB401-DigitizedMusic\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis_MarkupCompile.lref
+H:\CAB401\CAB401-DigitizedMusic\DigitalMusicSequential\obj\Debug\MainWindow.baml
+H:\CAB401\CAB401-DigitizedMusic\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis.g.resources
+H:\CAB401\CAB401-DigitizedMusic\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis.Properties.Resources.resources
+H:\CAB401\CAB401-DigitizedMusic\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis.csproj.GenerateResource.cache
+H:\CAB401\CAB401-DigitizedMusic\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis.csproj.CoreCompileInputs.cache
+H:\CAB401\CAB401-DigitizedMusic\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis.csproj.CopyComplete
+H:\CAB401\CAB401-DigitizedMusic\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis.exe
+H:\CAB401\CAB401-DigitizedMusic\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis.pdb
+H:\CAB401\CAB401-DigitizedMusic\Test\DigitalMusicSequential\bin\Debug\DigitalMusicAnalysis.exe.config
+H:\CAB401\CAB401-DigitizedMusic\Test\DigitalMusicSequential\bin\Debug\DigitalMusicAnalysis.exe
+H:\CAB401\CAB401-DigitizedMusic\Test\DigitalMusicSequential\bin\Debug\DigitalMusicAnalysis.pdb
+H:\CAB401\CAB401-DigitizedMusic\Test\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis.csprojAssemblyReference.cache
+H:\CAB401\CAB401-DigitizedMusic\Test\DigitalMusicSequential\obj\Debug\MainWindow.g.cs
+H:\CAB401\CAB401-DigitizedMusic\Test\DigitalMusicSequential\obj\Debug\App.g.cs
+H:\CAB401\CAB401-DigitizedMusic\Test\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis_MarkupCompile.cache
+H:\CAB401\CAB401-DigitizedMusic\Test\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis_MarkupCompile.lref
+H:\CAB401\CAB401-DigitizedMusic\Test\DigitalMusicSequential\obj\Debug\MainWindow.baml
+H:\CAB401\CAB401-DigitizedMusic\Test\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis.g.resources
+H:\CAB401\CAB401-DigitizedMusic\Test\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis.Properties.Resources.resources
+H:\CAB401\CAB401-DigitizedMusic\Test\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis.csproj.GenerateResource.cache
+H:\CAB401\CAB401-DigitizedMusic\Test\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis.csproj.CoreCompileInputs.cache
+H:\CAB401\CAB401-DigitizedMusic\Test\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis.csproj.CopyComplete
+H:\CAB401\CAB401-DigitizedMusic\Test\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis.exe
+H:\CAB401\CAB401-DigitizedMusic\Test\DigitalMusicSequential\obj\Debug\DigitalMusicAnalysis.pdb
+C:\Users\chaas\Downloads\CAB401-Assessment-master\CAB401-Assessment-master\DigitalMusicParallelised\bin\Debug\DigitalMusicAnalysis.exe.config
+C:\Users\chaas\Downloads\CAB401-Assessment-master\CAB401-Assessment-master\DigitalMusicParallelised\bin\Debug\DigitalMusicAnalysis.exe
+C:\Users\chaas\Downloads\CAB401-Assessment-master\CAB401-Assessment-master\DigitalMusicParallelised\bin\Debug\DigitalMusicAnalysis.pdb
+C:\Users\chaas\Downloads\CAB401-Assessment-master\CAB401-Assessment-master\DigitalMusicParallelised\bin\Debug\NAudio.dll
+C:\Users\chaas\Downloads\CAB401-Assessment-master\CAB401-Assessment-master\DigitalMusicParallelised\obj\Debug\DigitalMusicAnalysis.csprojAssemblyReference.cache
+C:\Users\chaas\Downloads\CAB401-Assessment-master\CAB401-Assessment-master\DigitalMusicParallelised\obj\Debug\MainWindow.g.cs
+C:\Users\chaas\Downloads\CAB401-Assessment-master\CAB401-Assessment-master\DigitalMusicParallelised\obj\Debug\App.g.cs
+C:\Users\chaas\Downloads\CAB401-Assessment-master\CAB401-Assessment-master\DigitalMusicParallelised\obj\Debug\DigitalMusicAnalysis_MarkupCompile.cache
+C:\Users\chaas\Downloads\CAB401-Assessment-master\CAB401-Assessment-master\DigitalMusicParallelised\obj\Debug\DigitalMusicAnalysis_MarkupCompile.lref
+C:\Users\chaas\Downloads\CAB401-Assessment-master\CAB401-Assessment-master\DigitalMusicParallelised\obj\Debug\MainWindow.baml
+C:\Users\chaas\Downloads\CAB401-Assessment-master\CAB401-Assessment-master\DigitalMusicParallelised\obj\Debug\DigitalMusicAnalysis.g.resources
+C:\Users\chaas\Downloads\CAB401-Assessment-master\CAB401-Assessment-master\DigitalMusicParallelised\obj\Debug\DigitalMusicAnalysis.Properties.Resources.resources
+C:\Users\chaas\Downloads\CAB401-Assessment-master\CAB401-Assessment-master\DigitalMusicParallelised\obj\Debug\DigitalMusicAnalysis.csproj.GenerateResource.cache
+C:\Users\chaas\Downloads\CAB401-Assessment-master\CAB401-Assessment-master\DigitalMusicParallelised\obj\Debug\DigitalMusicAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\chaas\Downloads\CAB401-Assessment-master\CAB401-Assessment-master\DigitalMusicParallelised\obj\Debug\DigitalMusicAnalysis.csproj.CopyComplete
+C:\Users\chaas\Downloads\CAB401-Assessment-master\CAB401-Assessment-master\DigitalMusicParallelised\obj\Debug\DigitalMusicAnalysis.exe
+C:\Users\chaas\Downloads\CAB401-Assessment-master\CAB401-Assessment-master\DigitalMusicParallelised\obj\Debug\DigitalMusicAnalysis.pdb
+C:\Users\chaas\Desktop\CAB401\DigitalMusicAnalysis - Parallel\bin\Debug\DigitalMusicAnalysis.exe.config
+C:\Users\chaas\Desktop\CAB401\DigitalMusicAnalysis - Parallel\bin\Debug\DigitalMusicAnalysis.exe
+C:\Users\chaas\Desktop\CAB401\DigitalMusicAnalysis - Parallel\bin\Debug\DigitalMusicAnalysis.pdb
+C:\Users\chaas\Desktop\CAB401\DigitalMusicAnalysis - Parallel\obj\Debug\DigitalMusicAnalysis.csprojAssemblyReference.cache
+C:\Users\chaas\Desktop\CAB401\DigitalMusicAnalysis - Parallel\obj\Debug\MainWindow.g.cs
+C:\Users\chaas\Desktop\CAB401\DigitalMusicAnalysis - Parallel\obj\Debug\App.g.cs
+C:\Users\chaas\Desktop\CAB401\DigitalMusicAnalysis - Parallel\obj\Debug\DigitalMusicAnalysis_MarkupCompile.cache
+C:\Users\chaas\Desktop\CAB401\DigitalMusicAnalysis - Parallel\obj\Debug\DigitalMusicAnalysis_MarkupCompile.lref
+C:\Users\chaas\Desktop\CAB401\DigitalMusicAnalysis - Parallel\obj\Debug\MainWindow.baml
+C:\Users\chaas\Desktop\CAB401\DigitalMusicAnalysis - Parallel\obj\Debug\DigitalMusicAnalysis.g.resources
+C:\Users\chaas\Desktop\CAB401\DigitalMusicAnalysis - Parallel\obj\Debug\DigitalMusicAnalysis.Properties.Resources.resources
+C:\Users\chaas\Desktop\CAB401\DigitalMusicAnalysis - Parallel\obj\Debug\DigitalMusicAnalysis.csproj.GenerateResource.cache
+C:\Users\chaas\Desktop\CAB401\DigitalMusicAnalysis - Parallel\obj\Debug\DigitalMusicAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\chaas\Desktop\CAB401\DigitalMusicAnalysis - Parallel\obj\Debug\DigitalMusicAnalysis.csproj.CopyComplete
+C:\Users\chaas\Desktop\CAB401\DigitalMusicAnalysis - Parallel\obj\Debug\DigitalMusicAnalysis.exe
+C:\Users\chaas\Desktop\CAB401\DigitalMusicAnalysis - Parallel\obj\Debug\DigitalMusicAnalysis.pdb
